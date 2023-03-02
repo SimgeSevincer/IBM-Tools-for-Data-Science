@@ -1,2 +1,2 @@
 # IBM-Tools-for-Data-Science
-IBM Tools for Data Science
+Simge Sevincer
